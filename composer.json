@@ -1,0 +1,11 @@
+{
+  "name": "miguelpazo/me",
+  "description": "Miguel Pazo | Personal WebSite",
+  "authors": [
+    {
+      "name": "Miguel Rodrigo Pazo Sanchez",
+      "email": "miguel.ps19@gmail.com"
+    }
+  ],
+  "require": {}
+}
