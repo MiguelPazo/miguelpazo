@@ -81,7 +81,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <li class="m_nav_item" id="moble_nav_item_2"><a href="#about">About</a></li>
             <!--<li class="m_nav_item" id="moble_nav_item_3"><a href="#statistics">Statistics</a></li>-->
             <li class="m_nav_item" id="moble_nav_item_4"><a href="#experience">Experience</a></li>
-            <li class="m_nav_item" id="moble_nav_item_6"><a href="#contact">Contact</a></li>
+            <!--            <li class="m_nav_item" id="moble_nav_item_6"><a href="#contact">Contact</a></li>-->
         </ul>
     </div>
     <!-- menu -->
@@ -95,7 +95,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <img src="images/1.jpg" alt=""/>
                 </div>
                 <div class="banner-right-info">
-                    <h2>I am passionate web and desktop developer with expertise since 2011.</h2>
+                    <h2>I am Miguel Pazo, web and desktop developer, although I prefer define me as a cross-functional
+                        developer.</h2>
 
                     <p>Graduated on december of 2013. I have developed and deployed several
                         softwares projects based in PHP, .NET, JAVA and other languages programming in both Windows and
@@ -105,7 +106,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="clearfix"></div>
                 <div class="w3-button">
                     <div class="w3-button-info m_nav_item">
-                        <a class="hvr-sweep-to-bottom" href="#contact">Contact Me</a>
+                        <!--                        <a class="hvr-sweep-to-bottom" href="#contact">Contact Me</a>-->
                     </div>
                 </div>
                 <div class="social-grids">
@@ -177,16 +178,40 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="wthree-about-grids">
             <div class="col-md-6 wthree-about-left">
                 <h3>About Me</h3>
-                <h4>Mauris molestie ultrices molestie. Sed rhoncus interdum ipsum, id fermentum sem pellentesque
-                    ut.</h4>
+                <h4>I am Miguel Pazo, web and desktop developer, although I prefer define me as a cross-functional
+                    developer.</h4>
 
-                <p>Praesent egestas egestas felis, sit amet posuere massa malesuada eget. Phasellus sem urna, euismod
-                    sit amet orci laoreet, laoreet molestie purus. Nulla leo purus, blandit nec efficitur tempor,
-                    interdum vel enim. <span>Proin mauris mi, lobortis quis quam at, tristique dictum arcu. In lobortis, massa in porta posuere, orci orci tincidunt risus, vitae ultrices enim eros vel lacus.</span>Lorem
-                    ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt tellus at est fermentum
-                    ultricies. Cras cursus semper libero. Vivamus non elit a diam elementum vulputate ac quis nisi.
-                    Suspendisse tellus massa, tempus in tristique a, eleifend non est. Duis consequat facilisis laoreet.
-                </p>
+                <p>I have been a developer since my secondary by this time I developed in VB 6 creating quizzes for my
+                    presentations of computing class, I was 14 years old, then I discoverd that me like this. For my
+                    last year in the school I working as freelance as developer in Action Script 2 in Flash, learning it
+                    from foros as Crystalab and several other, after I dabbled into the video edition and design world
+                    with Photoshop and After Effects and I worked with this and this I liked.</p>
+
+                <p>In the university time, I continued worked as developer freelance in Action Script 2 and 3, well,
+                    actually I never liked AS 3, but this was interesting. For this time I learned to develop in ASP C#
+                    and Java desktop in the university classes, this I liked, and as final project I developed a
+                    complete pharmacy system with ASP C# and Oracle, this system allowed to user create several branches
+                    office and employees into these, also allowed a complete maintenance of products (name,
+                    descriptions, prices, picture) and a sell process, amazingly this systems allowed dismiss employees
+                    registered with one clic too, this was a serious legal problem, and my teacher laughed at this last
+                    part, but well this was only a academic project.</p>
+
+                <p>In my first official job, I went as web developer thinking that this job was for a ASP C# developer,
+                    but this job was for a PHP developer and I didn´t know any thing about PHP or HTML or CSS, when you
+                    develop with ASP C# you only drag and drop elements from Visual Studio and not see anything about
+                    HTML or CSS (well at least I thought so at the time), but well, after the interview they decided
+                    hiring me, well I dont understand why, but I started to work with them as a PHP developer the next
+                    monday, this company was BongoUs. I learned so much with them, technologies as PHP, SVN, Zend
+                    Framework, GIT and much much more even Linux Server.</p>
+
+                <p>Since I leave BongoUs, which by the way now it was bought by FedEX, I learned that to be a good
+                    developer not is necessary know all the syntax of all programming languages actually is necessary to
+                    be logical, persistent and organized.</p>
+
+                <p>Well, today I dont only know about development, I have learned about TI, DevOps, QA, High Available
+                    and more and this help me to be cross-functional and solve problems of manner more efective, even
+                    now I have several important concepts about finances and I will include this knowledge to my
+                    startup.</p>
             </div>
             <div class="col-md-6 wthree-about-right">
                 <h3>Skills</h3>
@@ -196,10 +221,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <section class='wrap'>
                             <div class='wrap_right'>
                                 <div class='bar_group'>
-                                    <div class='bar_group__bar thin' label='Backend Programming' show_values='true'
+                                    <div class='bar_group__bar thin' label='Backend Development' show_values='true'
                                          tooltip='true' value='100'></div>
-                                    <div class='bar_group__bar thin' label='Frontend Programming' show_values='true'
+                                    <div class='bar_group__bar thin' label='Frontend Development' show_values='true'
                                          tooltip='true' value='90'></div>
+                                    <div class='bar_group__bar thin' label='Android Development' show_values='true'
+                                         tooltip='true' value='80'></div>
                                     <div class='bar_group__bar thin' label='DevOps' show_values='true' tooltip='true'
                                          value='80'></div>
                                     <div class='bar_group__bar thin' label='Data Base Administration' show_values='true'
@@ -208,6 +235,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                          show_values='true' tooltip='true' value='90'></div>
                                     <div class='bar_group__bar thin' label='Project Management' show_values='true'
                                          tooltip='true' value='70'></div>
+                                    <div class='bar_group__bar thin' label='Virtualization' show_values='true'
+                                         tooltip='true' value='60'></div>
+                                    <div class='bar_group__bar thin' label='Rest WebServices' show_values='true'
+                                         tooltip='true' value='95'></div>
+                                    <div class='bar_group__bar thin' label='PKI' show_values='true'
+                                         tooltip='true' value='80'></div>
+                                    <div class='bar_group__bar thin' label='Finances' show_values='true'
+                                         tooltip='true' value='40'></div>
                                 </div>
                             </div>
                             <div class='clear'></div>
