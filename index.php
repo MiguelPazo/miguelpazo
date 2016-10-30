@@ -11,6 +11,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="keywords" content="Miguel Pazo - Personal Web Site"/>
+
+    <meta property="og:title" content="Miguel Pazo - Personal Web Site">
+    <meta property="og:description"
+          content="Graduated on december of 2013. I have developed and deployed several softwares projects based in PHP, .NET, JAVA and other languages programming in both Windows and Linux using technologies as apache, nginx, Tomee, Tomcat and IIS. I have experience in project managment with Scrum framework, deployment of high availability infraestructures and DevOps.">
+    <meta property="og:image" content="http://miguelpazo.com/1.jpg">
+
     <script type="application/x-javascript"> addEventListener("load", function () {
             setTimeout(hideURLbar, 0);
         }, false);
