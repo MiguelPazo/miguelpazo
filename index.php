@@ -51,6 +51,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             });
         });
     </script>
+
+    <link rel="icon" href="images/icon.png" sizes="32x32"/>
+    <link rel="icon" href="images/icon.png" sizes="192x192"/>
+    <link rel="apple-touch-icon-precomposed" href="images/icon.png"/>
 </head>
 <body>
 <!-- banner -->
