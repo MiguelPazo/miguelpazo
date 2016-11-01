@@ -187,7 +187,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     from foros as Crystalab and several other, after I dabbled into the video edition and design world
                     with Photoshop and After Effects and I worked with this and this I liked.</p>
 
-                <p>In the university time, I continued worked as developer freelance in Action Script 2 and 3, well,
+                <p>At the university time, I continued worked as developer freelance in Action Script 2 and 3, well,
                     actually I never liked AS 3, but this was interesting. For this time I learned to develop in ASP C#
                     and Java desktop in the university classes, this I liked, and as final project I developed a
                     complete pharmacy system with ASP C# and Oracle, this system allowed to user create several branches
