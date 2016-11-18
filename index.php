@@ -138,6 +138,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         </ul>
                     </div>
                     <div class="clearfix"></div>
+                    <div class="outsource-logo">
+                        <a href="https://outsource.com/freelancer/Web-Software-IT/477348/0">
+                            <img src="https://outsource.com//img/remodel1/BadgeSmall.png" alt=""/>
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="col-md-4 w3ls-banner-left">
@@ -168,6 +173,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
             </div>
             <div class="clearfix"></div>
+            <!--            <div>-->
+            <!--                <a href="https://outsource.com/freelancer/Web-Software-IT/477348/0">-->
+            <!--                    <img src="https://outsource.com//img/remodel1/BadgeSmall.png" alt=""/>-->
+            <!--                </a>-->
+            <!--            </div>-->
         </div>
     </div>
 </div>

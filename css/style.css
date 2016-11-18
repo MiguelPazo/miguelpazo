@@ -206,6 +206,15 @@ body {
     margin: 2em 0 0 0;
 }
 
+.social-grids .outsource-logo {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.social-grids .outsource-logo img {
+    width: 170px;
+}
+
 .social-info {
     float: left;
     width: 20%;
@@ -1309,6 +1318,34 @@ body {
         height: 80px;
         padding: .7em 0 0 0;
     }
+}
+
+@media (min-width: 640px) {
+    .social-grids .outsource-logo {
+        margin: 0;
+        position: absolute;
+        right: 10px;
+        top: 15px;
+    }
+
+    .social-grids .outsource-logo img {
+        width: 140px;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .social-grids .outsource-logo {
+        margin: 0;
+        position: absolute;
+        right: 40px;
+        top: 275px;
+    }
+
+    .social-grids .outsource-logo img {
+        width: 170px;
+    }
+
 }
 
 /*-- //responsive --*/
