@@ -157,11 +157,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <p>Miguel Pazo Sánchez</p>
                 </div>
                 <div class="w3ls-banner-left-info">
-                    <h4>Sex</h4>
-
-                    <p>Male</p>
-                </div>
-                <div class="w3ls-banner-left-info">
                     <h4>Address</h4>
 
                     <p>Lima, Perú</p>
@@ -170,6 +165,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <h4>Email Address</h4>
 
                     <p><a href="mailto:me@miguelpazo.com">me@miguelpazo.com</a></p>
+                </div>
+                <div class="w3ls-banner-left-info">
+                    <h4>Languages</h4>
+
+                    <p>Spanish, English</p>
                 </div>
             </div>
             <div class="clearfix"></div>
