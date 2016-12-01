@@ -1048,10 +1048,6 @@ body {
     .nav-tabs {
         width: 71%;
     }
-
-    #m_nav_container {
-        height: 230px !important;
-    }
 }
 
 @media (max-width: 667px) {
