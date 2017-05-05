@@ -1,9 +1,3 @@
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -263,19 +257,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
         <div class="agile-statistics-grids">
             <div class="col-sm-4 agile-statistics-grid">
-                <h4>27</h4>
+                <h4>33</h4>
                 <i class="fa fa-github" aria-hidden="true"></i>
 
                 <p>GitHub Projects</p>
             </div>
             <div class="col-sm-4 agile-statistics-grid statistics-grid2">
-                <h4>138</h4>
+                <h4>181</h4>
                 <i class="fa fa-check-square-o" aria-hidden="true"></i>
 
                 <p>Commits</p>
             </div>
             <div class="col-sm-4 agile-statistics-grid">
-                <h4>7</h4>
+                <h4>9</h4>
                 <i class="fa fa-trophy" aria-hidden="true"></i>
 
                 <p>Certificates</p>
@@ -514,7 +508,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- copyright -->
 <div class="agileits-w3layouts-footer">
     <div class="container">
-        <p>© 2016 Creative Resume. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+        <p></p>
     </div>
 </div>
 <!-- //copyright -->
@@ -522,10 +516,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <script src="js/owl.carousel.js"></script>
 <script src="js/mail.js"></script>
 <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-29334653-1', 'auto');
     ga('send', 'pageview');
